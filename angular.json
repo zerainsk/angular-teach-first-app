@@ -28,7 +28,10 @@
             ],
             "styles": [
               "src/styles.scss",
-              "node_modules/bootstrap/scss/bootstrap.scss"
+              "node_modules/bootstrap/scss/bootstrap.scss",
+              "src/assets/fontawesome-free-5.7.1-web/scss/fontawesome.scss",
+              "src/assets/fontawesome-free-5.7.1-web/scss/solid.scss",
+              "src/assets/fontawesome-free-5.7.1-web/scss/brands.scss"
             ],
             "scripts": [],
             "es5BrowserSupport": true
